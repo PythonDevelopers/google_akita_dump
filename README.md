@@ -1,0 +1,14 @@
+# akita-user 14 UD2A.231203.054 11501734 release-keys
+- manufacturer: 
+- platform: zuma
+- codename: akita
+- flavor: akita-user
+- release: 14
+- id: UD2A.231203.054
+- incremental: 11501734
+- tags: release-keys
+- fingerprint: google/akita/akita:14/UD2A.231203.054/11501734:user/release-keys
+- is_ab: true
+- brand: google
+- branch: akita-user-14-UD2A.231203.054-11501734-release-keys
+- repo: google_akita_dump
